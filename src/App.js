@@ -7,7 +7,8 @@ function App() {
       <Home/>
       <Login />
       <Edit />
-      <Hoan/>
+      <Hoan />
+      <Nicholas />
     </div>
   );
 }
